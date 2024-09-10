@@ -4,9 +4,9 @@ This repository contains Terraform code to automate the creation of a Spotify pl
 
 Prerequisites:
 
-    1.	Terraform Installed
-    2.	Docker Installed
-    3.	Spotify Account
-    4.	Spotify Developer Account ( get the Client ID and Client Secret)
-    5.	Spotify Provider for Terraform
-    6.	VS Code Editor
+1.	Terraform Installed
+2.	Docker Installed
+3.	Spotify Account
+4.	Spotify Developer Account ( get the Client ID and Client Secret)
+5.	Spotify Provider for Terraform
+6.	VS Code Editor
