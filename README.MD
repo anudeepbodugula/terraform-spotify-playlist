@@ -1,6 +1,6 @@
 Spotify Playlist Creation with Terraform
 
-    This repository contains Terraform code to automate the creation of a Spotify playlist using the Spotify API. The purpose of this project is to demonstrate how to manage Spotify resources (like playlists) as code, leveraging Terraform’s powerful infrastructure-as-code capabilities.
+This repository contains Terraform code to automate the creation of a Spotify playlist using the Spotify API. The purpose of this project is to demonstrate how to manage Spotify resources (like playlists) as code, leveraging Terraform’s powerful infrastructure-as-code capabilities.
 
 Prerequisites:
 
